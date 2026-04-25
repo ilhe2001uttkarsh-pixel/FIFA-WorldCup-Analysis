@@ -59,3 +59,9 @@ This project analyzes historical FIFA World Cup match data to uncover patterns, 
 
 ## Project Structure
 
+## Key Learnings
+
+- Importance of data cleaning in real-world datasets  
+- Handling missing values and outliers  
+- Extracting insights using EDA  
+- Communicating findings using visualizations  
